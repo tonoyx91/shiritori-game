@@ -1,11 +1,9 @@
-// "use client";
-// import React, {useEffect, useState} from "react";
-import Image from "next/image";
+import GamePage from "./game/page";
 
 export default function Home() {
-  return (
-    <>
-        
-    </>
-  );
+	return (
+		<>
+			<GamePage />
+		</>
+	);
 }
