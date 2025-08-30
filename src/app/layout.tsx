@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Shiritori Game | Abrar",
+  title: "Shiritori Game by tonoyx91",
   description: "A Japanese Word Game",
 };
 
